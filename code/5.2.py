@@ -1,7 +1,0 @@
-print(3.5 + 2.1)
-print(4.3 - 2.7)
-print(4.2 + 5)
-print(float(5))
-print(float(1 + 2))
-print(float('5.3'))
-print(type(3.5))
